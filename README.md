@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Lesedi Jonas</h1>
-<h3 align="left">Just a guy look to code to awesome stuff.</h3>
+<h3 align="left">Just a guy looking to code to awesome stuff.</h3>
 
 - 🔭 I’m currently working on **Nothing. Just school.**
 
