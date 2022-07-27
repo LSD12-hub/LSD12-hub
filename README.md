@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Anything java related.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LSD12-hub/LSD12-hub/](https://github.com/LSD12-hub/LSD12-hub/)
+- 👨‍💻 All of my projects are available at [https://github.com/LSD12-hub/](https://github.com/LSD12-hub/LSD12-hub/)
 
 - 📫 How to reach me **lesedijonas12@gmail.com**
 
